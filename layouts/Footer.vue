@@ -5,7 +5,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="single-footer-widget">
                         <div class="logo">
-                            <nuxt-link to="/"><img src="./assets/img/logo.png" alt="logo"></nuxt-link>
+                            <nuxt-link to="/"><img src="/assets/img/logo.png" alt="logo"></nuxt-link>
                         </div>
 
                         <p>Please note that our products are delivered within 4 days.</p>
